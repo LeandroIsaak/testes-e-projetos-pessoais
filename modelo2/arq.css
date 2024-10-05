@@ -1,0 +1,54 @@
+body{
+   background-color: black;
+   padding: 0px 50px;
+}
+h1{
+    color: rgb(9, 99, 233);
+}
+h2,h3,p{
+    color: white;
+}
+ul {
+   list-style-type:none;
+   color:white;
+   display: flex;
+   justify-content: space-between;
+   padding: 15px;
+
+}
+a{
+    color:white;
+    text-decoration: none;
+}
+header img{
+    height: 170px;
+    width: 170px;
+    border: 4px solid rgb(9,99,233);
+   border-radius: 50%;
+}
+.foto{
+    text-align: center;
+}
+
+footer img{
+    width: 50px;
+    height: 50px;
+}
+
+footer{
+    padding-top: 5%;
+    display: flex;
+    justify-content: center;
+    gap: 80px; 
+}
+
+footer p{
+    margin-top: 1px;
+    text-align: center;
+}
+
+nav a:hover{
+    color:rgb(9,99,233);
+}
+
+
