@@ -1,0 +1,61 @@
+body{
+background-color:black;
+}
+/*ul{
+    list-style:none;
+    display:flex;
+    justify-content:center;
+    justify-content:space-between;
+    padding-left:3px;
+}
+ul a{
+    text-decoration:none;
+    color:white; 
+}*/
+header img{
+    width:180px;
+    height:180px;
+    border-radius:50%;
+    border: 2px solid rgb(160,98,6);
+}
+.cabecalho{
+    text-align: center;
+}
+h1,h2,h3{
+    color:rgb(160, 98, 6);
+    font-family: verdana;
+}
+p{
+    color:whitesmoke;
+    font-family:calibri;
+    }
+    footer img{
+        width:110px;
+        height:110px;
+        border-radius: 50%;
+        
+    }
+    footer{
+    display:flex;
+    justify-content:center;
+    justify-content: space-between;
+    padding-top:10%;
+    }
+    footer a{
+        text-decoration:none;
+        color:white;
+    }
+    footer p{
+        text-align:center;
+        margin-top: 1px;
+    }
+    .container{
+        padding: 20px;
+    }
+    
+    .icone-reborn :hover{
+border:2px solid yellow;
+    }
+    .icone-lambo :hover{
+        border:2px solid green;
+    }

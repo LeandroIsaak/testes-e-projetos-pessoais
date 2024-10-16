@@ -1,0 +1,53 @@
+body{
+    background-color: black;
+}
+header img{
+    width:180px;
+    height:180px;
+    border-radius:50%;
+    border:2px solid green;
+}
+.img-cabecalho{
+    text-align: center;
+}
+
+h1,h2,h3{
+    color:green;
+    font-family:verdana;
+}
+
+p{
+    color: whitesmoke;
+    font-family:calibri;
+}
+
+footer{
+    display:flex;
+    justify-content:center;
+    justify-content:space-between;
+    padding-top:10%;
+}
+footer img{
+    width:110px;
+    height:110px;
+    border-radius:50%;
+
+}
+footer a{
+    text-decoration: none;
+    color:whitesmoke;
+    
+}
+footer p{
+    text-align:center;
+    margin-top:1px;
+}
+
+.icone-tsuna :hover{
+color:rgb(160,98,6);
+border: solid 2px rgb(160, 98, 6)
+}
+.icone-reborn :hover {
+    color: yellow;
+    border: solid 2px yellow;
+}

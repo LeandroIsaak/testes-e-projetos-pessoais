@@ -1,0 +1,51 @@
+body{
+    background-color: black;
+}
+h1,h2,h3{
+    color:yellow;
+    font-family:verdana;
+}
+p{
+    color:whitesmoke;
+    font-family:calibri;
+}
+header img{
+    height: 180px;
+    width: 180px;
+    border-radius:50%;
+    border: 2px solid yellow;
+}
+.img-cabecalho{
+    text-align: center;
+}
+
+footer{
+display:flex;
+justify-content:center;
+justify-content:space-between;
+padding-top:10%;
+}
+
+footer img{
+    height:110px;
+    width:110px;
+    border-radius:50%;
+}
+
+footer a{
+    text-decoration:none;
+    color:white;
+}
+footer p{
+    margin-top:1px;
+    text-align: center;
+}
+.container{
+    padding:20px;
+}
+.icone-tsuna :hover{
+border:2px solid rgb(160, 98, 6)
+}
+.icone-lambo :hover{
+    border:2px solid green;
+}
